@@ -1,3 +1,6 @@
+layout: page
+title: "Stroller Buddy!"
+permalink: /StrollerBuddyMarketing.md/
 <html>
  <head>
 	<h1>Stroller Buddy!</h1>
