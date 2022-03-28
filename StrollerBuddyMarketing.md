@@ -1,0 +1,16 @@
+layout: page
+title: "Stroller Buddy!"
+permalink: /StrollerBuddyMarketing.md/
+<html>
+ <head>
+	<h1>Stroller Buddy!</h1>
+ </head>
+ <body>
+   <h2>Features:<h2>
+   <ul>
+	<li>Update stroller wheel diameter
+	<li>Toggle on/off collision avoidance
+	<li>Toggle on/off parking break
+	<li>View walk metrics such as speed, distance, altitude, and location
+   
+   <p>Note: Not all features are yet available.
